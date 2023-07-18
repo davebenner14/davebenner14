@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer from Toronto
 
-- 🔭 I’m currently working on **VueRESTfulCRUDify**
+- 🔭 I’m currently working on [VueRESTfulCRUDify](https://github.com/davebenner14/VueRESTfulCRUDify)
 
 - 🌱 I’m currently learning **Laravel** and **Vue.js**
 
