@@ -2,9 +2,9 @@
 
 ## Full-Stack Developer from Toronto
 
-- 🔭 I’m currently working on **New and exciting ways to use Laravel**
+- 🔭 I’m currently working on **VueRESTfulCRUDify**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** and **Vue.js**
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
