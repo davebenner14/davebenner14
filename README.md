@@ -1,8 +1,9 @@
 # Hi 👋, I'm David Benner
 
 ## Full-Stack Developer from Toronto
+- 🎉 I’ve recently completed [VueRESTfulCRUDify](https://github.com/davebenner14/VueRESTfulCRUDify)
 
-- 🔭 I’m currently working on [VueRESTfulCRUDify](https://github.com/davebenner14/VueRESTfulCRUDify)
+- 🔭 I’m currently working on [VueBlackjack21](https://github.com/davebenner14/VueBlackjack21)
 
 - 🌱 I’m currently learning **Laravel** and **Vue.js**
 
