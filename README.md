@@ -1,7 +1,7 @@
 # Hi 👋, I'm David Benner
 
 ## Full-Stack Developer from Toronto
-- 🎉 I’ve recently completed [PixelPacker - A Tetris Game](https://github.com/davebenner14/PixelPacker-A-TET-IS-Game)
+- 🎉 I’ve recently completed [PixelPacker - A TETRIS Game](https://github.com/davebenner14/PixelPacker-A-TET-IS-Game)
 
 - 🔭 I’m currently working on [NexaCommerce](https://github.com/davebenner14/NexaCommerce) 
 
