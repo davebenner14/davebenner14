@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jumpman](https://github.com/davebenner14/Jumpman) 
 
-- 🌱 I’m currently learning **Phaser.js**
+- 🌱 I’m currently learning [Phaser.js](https://phaser.io/docs/2.6.2/index)
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
