@@ -1,7 +1,7 @@
 # Hi 👋, I'm David Benner
 
 ## Full-Stack Developer from Toronto
-- 🎉 I’ve recently completed [PixelPacker - A TETRIS Game](https://github.com/davebenner14/PixelPacker-A-TET-IS-Game)
+- 🎉 I’ve recently completed [PixelPacker - A TETRIS Game](https://github.com/davebenner14/PixelPacker-A-TET-IS-Game) and [NespressoPlusMock](https://github.com/davebenner14/NespressoPlusMock)
 
 - 🔭 I’m currently working on [Strike Wing](https://github.com/davebenner14/Jumpman) 
 
