@@ -3,7 +3,7 @@
 ## Full-Stack Developer from Toronto
 - 🎉 I’ve recently completed [PixelPacker - A TETRIS Game](https://github.com/davebenner14/PixelPacker-A-TET-IS-Game) and [NespressoPlusMock](https://github.com/davebenner14/NespressoPlusMock)
 
-- 🔭 I’m currently working on [Strike Wing](https://github.com/davebenner14/Jumpman) and [portfolio2](https://github.com/davebenner14/DavePortfolio).
+- 🔭 I’m currently working on [Strike Wing](https://github.com/davebenner14/Jumpman) and [Portfolio2](https://github.com/davebenner14/DavePortfolio).
 
 - 🌱 I’m currently learning [Phaser.js](https://phaser.io/docs/2.6.2/index)
 
