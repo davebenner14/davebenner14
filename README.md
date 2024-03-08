@@ -1,7 +1,7 @@
 # Hi 👋, I'm David Benner
 
 ## Full-Stack Developer from Toronto
-- 🎉 I’ve recently completed [Strike Wing](https://github.com/davebenner14/Jumpman) and [Portfolio2](https://github.com/davebenner14/DavePortfolio).
+- 🎉 I’ve recently completed [Strike Wing](https://github.com/davebenner14/Jumpman) and [My Portfolio](https://www.davebenner.ca/).
 
 - 🔭 I’m currently working on freelance work for a few clients. Completed sites will be uploaded shortly.
 
