@@ -1,11 +1,11 @@
 # Hi 👋, I'm David Benner
 
 ## Full-Stack Developer from Toronto
-- 🎉 I’ve recently completed [PixelPacker - A TETRIS Game](https://github.com/davebenner14/PixelPacker-A-TET-IS-Game) and [NespressoPlusMock](https://github.com/davebenner14/NespressoPlusMock)
+- 🎉 I’ve recently completed [Strike Wing](https://github.com/davebenner14/Jumpman) and [Portfolio2](https://github.com/davebenner14/DavePortfolio).
 
-- 🔭 I’m currently working on [Strike Wing](https://github.com/davebenner14/Jumpman) and [Portfolio2](https://github.com/davebenner14/DavePortfolio).
+- 🔭 I’m currently working on freelance work for a few clients. Completed sites will be uploaded shortly.
 
-- 🌱 I’m currently learning [Phaser.js](https://phaser.io/docs/2.6.2/index)
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
