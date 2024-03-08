@@ -16,7 +16,7 @@
 <br />
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="open ai gpt" width="40" height="40">](https://openai.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" width="40" height="40">](https://tailwindcss.com/)
+[<img src="[https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg)" alt="tailwind css" width="40" height="40">](https://tailwindcss.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40">](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
